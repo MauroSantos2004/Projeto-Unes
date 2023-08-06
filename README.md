@@ -1,8 +1,16 @@
-# Projeto-Unes
+**Universidade Nacional de Educação Superior - UNES 🎓**
 
-Url do Projeto
-https://maurosantos2004.github.io/Projeto-Unes/
+Logo UNES
 
-Projeto com fins de treino. A universidade feita   é fictícia
+Bem-vindo(a) à Universidade Nacional de Educação Superior (UNES)!
 
-Nesse projeto coloquei em prática as técnicas HTML!
+**Sobre a UNES**
+
+
+A UNES é uma universidade fictícia  com intuito principal de destravar conhecimnentos básicos HTML.
+
+
+Acesse o site da UNES: https://maurosantos2004.github.io/Projeto-Unes/
+
+
+Conheça o projeto Unes👆👆👆
